@@ -10,16 +10,24 @@ O problema é inspirado no algoritmo da mochila (Knapsack Problem), amplamente u
 
 * Simular um sistema de compras baseado em orçamento limitado.
   
-*Comparar estratégias:
-**Força Bruta (Brute Force): garante a melhor solução absoluta, mas é lento para grandes listas.
-**Greedy (Ganancioso): seleciona produtos mais eficientes (demanda/preço), é rápido, mas pode não ser perfeito.
+* Comparar estratégias:
+  * Força Bruta (Brute Force): garante a melhor solução absoluta, mas é lento para grandes listas.
+  * Greedy (Ganancioso): seleciona produtos mais eficientes (demanda/preço), é rápido, mas pode não ser perfeito.
 
-*Desenvolver habilidades práticas em:
+* Desenvolver habilidades práticas em:
 
-Estruturas de dados em Python
+   * Estruturas de dados em Python
+   * Estruturas de repetição (for, while)
+   * Estruturas condicionais (if/elif/else)
+   * Modularização de código (separação em dados.py, funcoes.py e main.py)
 
-Estruturas de repetição (for, while)
+## ⚙️ Funcionalidades
 
-Estruturas condicionais (if/elif/else)
+* Menu interativo com 3 opções:
+  1. Digitar o orçamento disponível
+  2. Listar os produtos disponíveis
+  3. Sair do sistema
 
-Modularização de código (separação em dados.py, funcoes.py e main.py)
+* Implementação do algoritmo de otimização usando Knapsack
+* Alternativa com Greedy Algorithm para execução rápida
+* Cálculo da demanda total atendida e do custo total

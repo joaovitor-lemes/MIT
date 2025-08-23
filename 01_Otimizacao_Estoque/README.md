@@ -9,9 +9,10 @@ O problema é inspirado no algoritmo da mochila (Knapsack Problem), amplamente u
 ## 🎯 Objetivos do Projeto
 
 * Simular um sistema de compras baseado em orçamento limitado.
+  
 *Comparar estratégias:
-Força Bruta (Brute Force): garante a melhor solução absoluta, mas é lento para grandes listas.
-Greedy (Ganancioso): seleciona produtos mais eficientes (demanda/preço), é rápido, mas pode não ser perfeito.
+**Força Bruta (Brute Force): garante a melhor solução absoluta, mas é lento para grandes listas.
+**Greedy (Ganancioso): seleciona produtos mais eficientes (demanda/preço), é rápido, mas pode não ser perfeito.
 
 *Desenvolver habilidades práticas em:
 
